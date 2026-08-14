@@ -1,0 +1,514 @@
+date,category,description,amount,payment_method
+2025-08-01,Bills,Internet,1594,Cash
+2025-08-01,Entertainment,Movie,1838,Card
+2025-08-02,Education,Learning,3744,Bank Transfer
+2025-08-02,Shopping,Electronics,1269,Bank Transfer
+2025-08-03,Health,Pharmacy,2633,Bank Transfer
+2025-08-03,Bills,Internet,1484,Bank Transfer
+2025-08-03,Transport,Bus,332,Bank Transfer
+2025-08-06,Shopping,Online Shopping,2547,Bank Transfer
+2025-08-06,Bills,Water,2106,Card
+2025-08-07,Education,Books,4958,Bank Transfer
+2025-08-08,Bills,Water,1828,Cash
+2025-08-08,Entertainment,Subscription,846,UPI
+2025-08-10,Transport,Auto,680,Bank Transfer
+2025-08-10,Health,Pharmacy,2241,UPI
+2025-08-11,Entertainment,Games,1563,Bank Transfer
+2025-08-12,Bills,Mobile,1075,Cash
+2025-08-12,Shopping,Electronics,3652,Bank Transfer
+2025-08-13,Bills,Electricity,1321,Card
+2025-08-14,Transport,Auto,1580,Cash
+2025-08-15,Transport,Auto,241,Card
+2025-08-16,Bills,Electricity,1115,Cash
+2025-08-17,Health,Doctor,1475,UPI
+2025-08-17,Health,Medicine,2967,UPI
+2025-08-17,Transport,Fuel,1156,Bank Transfer
+2025-08-18,Food,Snacks,2385,Bank Transfer
+2025-08-22,Entertainment,Movie,1567,UPI
+2025-08-22,Bills,Water,1795,Cash
+2025-08-23,Shopping,Clothing,891,Cash
+2025-08-23,Shopping,Clothing,4974,UPI
+2025-08-24,Education,Books,3399,Cash
+2025-08-26,Bills,Electricity,802,Cash
+2025-08-26,Health,Medicine,2346,Bank Transfer
+2025-08-26,Health,Doctor,1770,UPI
+2025-08-27,Entertainment,Subscription,1685,Cash
+2025-08-27,Food,Groceries,652,Cash
+2025-08-28,Education,Learning,4788,Cash
+2025-08-29,Transport,Bus,971,UPI
+2025-08-29,Shopping,Online Shopping,1363,Cash
+2025-08-31,Entertainment,Games,2478,UPI
+2025-08-31,Education,Learning,4936,Bank Transfer
+2025-08-31,Entertainment,Subscription,1922,Cash
+2025-09-01,Bills,Electricity,1897,UPI
+2025-09-03,Bills,Water,1943,Bank Transfer
+2025-09-04,Health,Pharmacy,1554,Bank Transfer
+2025-09-04,Transport,Fuel,1451,UPI
+2025-09-04,Education,Books,1606,Card
+2025-09-06,Entertainment,Movie,1482,Cash
+2025-09-06,Health,Doctor,848,Card
+2025-09-06,Entertainment,Movie,1457,Bank Transfer
+2025-09-07,Education,Learning,3745,Bank Transfer
+2025-09-07,Food,Snacks,1286,Card
+2025-09-07,Food,Restaurant,713,Bank Transfer
+2025-09-08,Education,Books,1936,UPI
+2025-09-09,Food,Coffee,2310,Card
+2025-09-09,Transport,Auto,1669,Cash
+2025-09-09,Entertainment,Movie,1861,Card
+2025-09-11,Transport,Auto,1519,Cash
+2025-09-11,Bills,Mobile,502,Bank Transfer
+2025-09-11,Shopping,Clothing,1266,Card
+2025-09-12,Entertainment,Games,397,Card
+2025-09-12,Shopping,Online Shopping,6787,UPI
+2025-09-12,Food,Snacks,336,Card
+2025-09-13,Entertainment,Subscription,859,Bank Transfer
+2025-09-13,Shopping,Online Shopping,1869,Cash
+2025-09-13,Education,Learning,3519,Bank Transfer
+2025-09-14,Bills,Internet,2259,Bank Transfer
+2025-09-14,Education,Books,3219,UPI
+2025-09-15,Bills,Internet,2269,Cash
+2025-09-15,Education,Books,3669,Cash
+2025-09-16,Bills,Water,923,UPI
+2025-09-16,Bills,Water,1180,Card
+2025-09-18,Health,Medicine,1383,Cash
+2025-09-18,Education,Course,3470,Cash
+2025-09-18,Shopping,Electronics,3691,UPI
+2025-09-19,Bills,Mobile,1948,Bank Transfer
+2025-09-19,Bills,Electricity,403,Bank Transfer
+2025-09-19,Health,Doctor,2757,UPI
+2025-09-20,Food,Groceries,2069,Card
+2025-09-20,Transport,Bus,901,Cash
+2025-09-21,Entertainment,Movie,360,Bank Transfer
+2025-09-21,Food,Restaurant,1450,Bank Transfer
+2025-09-21,Bills,Water,2219,Bank Transfer
+2025-09-22,Shopping,Clothing,5235,UPI
+2025-09-22,Bills,Mobile,769,Cash
+2025-09-23,Health,Pharmacy,2285,Card
+2025-09-25,Health,Doctor,2274,Card
+2025-09-25,Entertainment,Games,1159,UPI
+2025-09-27,Entertainment,Subscription,746,Bank Transfer
+2025-09-27,Food,Snacks,166,Bank Transfer
+2025-09-27,Bills,Electricity,1369,UPI
+2025-09-28,Shopping,Clothing,1560,Bank Transfer
+2025-10-01,Entertainment,Subscription,899,UPI
+2025-10-02,Education,Course,1280,Bank Transfer
+2025-10-02,Education,Course,3627,Cash
+2025-10-02,Transport,Uber,645,Card
+2025-10-03,Health,Pharmacy,1886,Card
+2025-10-03,Education,Learning,2837,Card
+2025-10-04,Food,Snacks,395,Bank Transfer
+2025-10-05,Entertainment,Games,737,Cash
+2025-10-05,Transport,Uber,487,UPI
+2025-10-06,Transport,Fuel,115,UPI
+2025-10-06,Bills,Internet,699,Card
+2025-10-06,Bills,Mobile,1466,Bank Transfer
+2025-10-07,Transport,Auto,806,Cash
+2025-10-08,Shopping,Clothing,4269,Cash
+2025-10-09,Entertainment,Games,1915,Card
+2025-10-10,Education,Books,2791,UPI
+2025-10-12,Entertainment,Movie,1326,Bank Transfer
+2025-10-12,Health,Medicine,1191,Bank Transfer
+2025-10-12,Health,Doctor,2903,UPI
+2025-10-13,Bills,Electricity,1993,Cash
+2025-10-15,Education,Learning,3975,Card
+2025-10-15,Education,Books,1040,Card
+2025-10-15,Entertainment,Games,1350,UPI
+2025-10-16,Entertainment,Movie,1281,Card
+2025-10-16,Food,Coffee,1269,Card
+2025-10-16,Health,Medicine,687,UPI
+2025-10-19,Entertainment,Subscription,903,Cash
+2025-10-19,Entertainment,Games,2494,Cash
+2025-10-19,Bills,Electricity,1979,Cash
+2025-10-21,Food,Groceries,1393,UPI
+2025-10-22,Food,Restaurant,1923,Card
+2025-10-22,Bills,Internet,1527,Bank Transfer
+2025-10-23,Transport,Auto,420,Cash
+2025-10-24,Food,Restaurant,1907,UPI
+2025-10-24,Education,Books,3149,Bank Transfer
+2025-10-24,Education,Books,4030,Card
+2025-10-25,Food,Snacks,1498,UPI
+2025-10-25,Bills,Water,635,Cash
+2025-10-25,Transport,Uber,975,Bank Transfer
+2025-10-26,Bills,Water,2231,Card
+2025-10-26,Shopping,Clothing,4500,UPI
+2025-10-27,Shopping,Clothing,5887,Cash
+2025-10-27,Food,Groceries,1341,Card
+2025-10-28,Bills,Internet,311,Cash
+2025-10-28,Health,Pharmacy,2746,Card
+2025-10-29,Education,Course,4485,Bank Transfer
+2025-10-29,Entertainment,Games,1825,Card
+2025-10-30,Shopping,Clothing,4474,Bank Transfer
+2025-10-31,Entertainment,Games,1716,Cash
+2025-11-02,Bills,Internet,975,Card
+2025-11-02,Entertainment,Movie,2439,Cash
+2025-11-02,Food,Coffee,1721,Card
+2025-11-04,Education,Books,4432,Bank Transfer
+2025-11-04,Food,Coffee,1698,Cash
+2025-11-06,Food,Restaurant,1446,UPI
+2025-11-06,Health,Medicine,1565,UPI
+2025-11-07,Shopping,Clothing,6231,Bank Transfer
+2025-11-07,Entertainment,Movie,275,UPI
+2025-11-08,Bills,Electricity,1150,Card
+2025-11-08,Education,Course,3440,Cash
+2025-11-09,Food,Snacks,1642,Bank Transfer
+2025-11-09,Entertainment,Subscription,1367,UPI
+2025-11-09,Education,Course,3282,Card
+2025-11-10,Transport,Uber,1266,Cash
+2025-11-10,Entertainment,Subscription,950,Bank Transfer
+2025-11-12,Transport,Auto,992,UPI
+2025-11-13,Education,Books,1491,Card
+2025-11-15,Shopping,Electronics,1717,UPI
+2025-11-18,Shopping,Clothing,2356,Card
+2025-11-19,Food,Coffee,366,UPI
+2025-11-19,Bills,Water,2110,UPI
+2025-11-19,Bills,Electricity,390,Card
+2025-11-20,Shopping,Online Shopping,4022,UPI
+2025-11-22,Bills,Electricity,1381,Bank Transfer
+2025-11-23,Entertainment,Subscription,1584,Cash
+2025-11-23,Food,Coffee,2146,Bank Transfer
+2025-11-23,Health,Medicine,1414,Bank Transfer
+2025-11-26,Food,Restaurant,1290,Card
+2025-11-26,Transport,Auto,764,Bank Transfer
+2025-11-26,Entertainment,Movie,1014,UPI
+2025-11-27,Health,Medicine,402,Bank Transfer
+2025-11-27,Entertainment,Subscription,1882,Bank Transfer
+2025-11-27,Food,Restaurant,2244,UPI
+2025-11-29,Education,Learning,3884,UPI
+2025-11-30,Health,Doctor,2903,Cash
+2025-12-02,Bills,Electricity,1267,Card
+2025-12-02,Bills,Water,967,UPI
+2025-12-03,Transport,Auto,755,Card
+2025-12-03,Transport,Auto,1281,Bank Transfer
+2025-12-03,Bills,Internet,340,Bank Transfer
+2025-12-04,Shopping,Electronics,5820,UPI
+2025-12-04,Entertainment,Movie,1124,UPI
+2025-12-04,Health,Doctor,589,Card
+2025-12-05,Entertainment,Subscription,2144,Card
+2025-12-05,Transport,Auto,877,Card
+2025-12-06,Entertainment,Movie,1215,UPI
+2025-12-06,Health,Medicine,2393,Bank Transfer
+2025-12-07,Food,Coffee,1002,Card
+2025-12-07,Education,Course,4225,Cash
+2025-12-08,Food,Groceries,1783,UPI
+2025-12-08,Shopping,Online Shopping,884,UPI
+2025-12-09,Education,Books,4871,UPI
+2025-12-09,Entertainment,Subscription,1868,Card
+2025-12-09,Shopping,Clothing,4136,UPI
+2025-12-10,Transport,Fuel,1248,UPI
+2025-12-11,Food,Restaurant,2198,Cash
+2025-12-14,Health,Medicine,1080,Bank Transfer
+2025-12-14,Transport,Auto,174,Bank Transfer
+2025-12-14,Education,Books,549,Card
+2025-12-15,Health,Doctor,467,UPI
+2025-12-16,Bills,Internet,1062,UPI
+2025-12-18,Education,Learning,3578,UPI
+2025-12-18,Entertainment,Games,777,Cash
+2025-12-18,Shopping,Online Shopping,5359,Card
+2025-12-19,Transport,Bus,877,Cash
+2025-12-20,Shopping,Online Shopping,2517,Bank Transfer
+2025-12-20,Food,Restaurant,1508,Bank Transfer
+2025-12-21,Education,Books,2428,UPI
+2025-12-23,Transport,Auto,1504,Card
+2025-12-23,Food,Snacks,2025,Bank Transfer
+2025-12-23,Entertainment,Games,2300,Card
+2025-12-25,Shopping,Online Shopping,4323,Cash
+2025-12-26,Education,Course,3745,Bank Transfer
+2025-12-26,Bills,Water,2019,UPI
+2025-12-27,Shopping,Online Shopping,4688,Bank Transfer
+2025-12-27,Transport,Uber,713,Cash
+2025-12-28,Entertainment,Movie,1689,Bank Transfer
+2025-12-28,Transport,Uber,613,UPI
+2025-12-29,Food,Groceries,2430,Bank Transfer
+2025-12-30,Health,Pharmacy,2168,Card
+2025-12-31,Entertainment,Subscription,2496,Cash
+2026-01-02,Education,Books,4502,Cash
+2026-01-03,Entertainment,Movie,1249,Bank Transfer
+2026-01-03,Food,Snacks,774,Cash
+2026-01-03,Entertainment,Subscription,502,Cash
+2026-01-04,Health,Pharmacy,673,Bank Transfer
+2026-01-04,Education,Books,3587,Card
+2026-01-04,Entertainment,Games,725,Cash
+2026-01-05,Shopping,Online Shopping,5622,Cash
+2026-01-05,Education,Books,1831,UPI
+2026-01-05,Transport,Bus,885,Cash
+2026-01-06,Education,Course,4880,Bank Transfer
+2026-01-06,Transport,Fuel,1376,Cash
+2026-01-07,Transport,Bus,891,UPI
+2026-01-10,Food,Snacks,216,UPI
+2026-01-10,Entertainment,Games,2358,Bank Transfer
+2026-01-10,Education,Books,4307,UPI
+2026-01-11,Shopping,Electronics,2972,UPI
+2026-01-11,Health,Pharmacy,1961,Cash
+2026-01-11,Shopping,Clothing,6585,UPI
+2026-01-15,Entertainment,Games,1805,Cash
+2026-01-16,Bills,Electricity,1930,Bank Transfer
+2026-01-16,Education,Course,542,Cash
+2026-01-16,Entertainment,Subscription,205,Card
+2026-01-17,Bills,Mobile,303,Cash
+2026-01-17,Health,Pharmacy,1829,Bank Transfer
+2026-01-17,Health,Doctor,2821,UPI
+2026-01-18,Education,Learning,1441,Bank Transfer
+2026-01-19,Bills,Internet,831,UPI
+2026-01-19,Bills,Mobile,2348,Card
+2026-01-20,Health,Medicine,2117,Cash
+2026-01-21,Bills,Internet,2326,Cash
+2026-01-21,Food,Restaurant,839,Bank Transfer
+2026-01-22,Entertainment,Subscription,1873,Bank Transfer
+2026-01-23,Entertainment,Games,1819,UPI
+2026-01-24,Entertainment,Movie,2194,Cash
+2026-01-24,Health,Doctor,1318,UPI
+2026-01-26,Bills,Water,2269,Card
+2026-01-28,Shopping,Clothing,3135,Cash
+2026-01-28,Shopping,Clothing,5915,Bank Transfer
+2026-01-28,Health,Medicine,1072,UPI
+2026-01-29,Bills,Electricity,1614,UPI
+2026-02-01,Shopping,Electronics,3121,Bank Transfer
+2026-02-01,Food,Groceries,1215,UPI
+2026-02-02,Education,Books,4062,UPI
+2026-02-03,Food,Coffee,724,Cash
+2026-02-08,Education,Books,2297,UPI
+2026-02-08,Shopping,Online Shopping,2470,Card
+2026-02-09,Shopping,Online Shopping,1702,Bank Transfer
+2026-02-10,Bills,Mobile,1946,UPI
+2026-02-12,Health,Doctor,1122,Bank Transfer
+2026-02-12,Entertainment,Games,1320,UPI
+2026-02-12,Entertainment,Subscription,1150,UPI
+2026-02-13,Bills,Electricity,2157,Card
+2026-02-15,Transport,Uber,1221,Card
+2026-02-15,Entertainment,Subscription,1014,Bank Transfer
+2026-02-15,Shopping,High Value Purchase,45000,Card
+2026-02-17,Bills,Water,2362,UPI
+2026-02-17,Entertainment,Movie,2294,Bank Transfer
+2026-02-17,Bills,Internet,429,Cash
+2026-02-18,Shopping,Online Shopping,2455,Bank Transfer
+2026-02-18,Transport,Fuel,1386,UPI
+2026-02-19,Shopping,Electronics,6461,Bank Transfer
+2026-02-19,Health,Pharmacy,911,Cash
+2026-02-19,Education,Books,2649,Cash
+2026-02-20,Transport,Uber,1719,Card
+2026-02-20,Transport,Uber,1072,Cash
+2026-02-20,Bills,Mobile,655,Bank Transfer
+2026-02-21,Entertainment,Movie,2063,Cash
+2026-02-21,Transport,Uber,683,Cash
+2026-02-21,Transport,Uber,1093,Cash
+2026-02-23,Food,Restaurant,1580,UPI
+2026-02-24,Entertainment,Movie,1845,Bank Transfer
+2026-02-25,Education,Course,3372,Cash
+2026-02-26,Education,Learning,3008,Cash
+2026-03-02,Bills,Internet,416,Card
+2026-03-04,Education,Course,1925,Cash
+2026-03-04,Health,Pharmacy,674,Card
+2026-03-05,Food,Snacks,1088,Cash
+2026-03-05,Bills,Mobile,1502,Card
+2026-03-06,Food,Coffee,1353,Card
+2026-03-06,Entertainment,Movie,2424,UPI
+2026-03-06,Education,Learning,3013,Bank Transfer
+2026-03-07,Entertainment,Movie,1166,UPI
+2026-03-08,Food,Groceries,297,Card
+2026-03-08,Health,Doctor,1924,Bank Transfer
+2026-03-08,Food,Coffee,1942,Bank Transfer
+2026-03-10,Education,Learning,1251,Cash
+2026-03-11,Health,Medicine,628,UPI
+2026-03-12,Shopping,Electronics,1268,Card
+2026-03-13,Education,Books,4589,Card
+2026-03-13,Bills,Internet,2461,Card
+2026-03-14,Shopping,Online Shopping,6516,Bank Transfer
+2026-03-16,Education,Learning,1781,Cash
+2026-03-16,Health,Pharmacy,2334,Cash
+2026-03-17,Transport,Fuel,1452,Bank Transfer
+2026-03-17,Food,Groceries,2008,Bank Transfer
+2026-03-17,Education,Learning,627,Card
+2026-03-19,Entertainment,Subscription,1487,Card
+2026-03-19,Shopping,Electronics,1811,Bank Transfer
+2026-03-20,Shopping,Clothing,4777,UPI
+2026-03-21,Education,Learning,1243,Card
+2026-03-22,Transport,Fuel,1776,Cash
+2026-03-22,Entertainment,Subscription,1114,Bank Transfer
+2026-03-24,Transport,Bus,894,UPI
+2026-03-24,Bills,Mobile,1045,Cash
+2026-03-24,Transport,Fuel,550,Cash
+2026-03-25,Bills,Internet,1104,Card
+2026-03-25,Health,Medicine,1276,Bank Transfer
+2026-03-25,Shopping,Electronics,3401,Bank Transfer
+2026-03-26,Food,Restaurant,2256,Card
+2026-03-26,Education,Course,4253,Cash
+2026-03-26,Food,Restaurant,670,Bank Transfer
+2026-03-27,Entertainment,Movie,1981,Card
+2026-03-28,Health,Pharmacy,641,UPI
+2026-03-28,Entertainment,Games,1004,Cash
+2026-03-29,Transport,Auto,121,Bank Transfer
+2026-03-31,Transport,Uber,1780,UPI
+2026-04-01,Transport,Auto,1702,UPI
+2026-04-02,Health,Medicine,2274,UPI
+2026-04-03,Health,Doctor,367,Card
+2026-04-03,Bills,Internet,2340,UPI
+2026-04-04,Transport,Uber,1504,Card
+2026-04-04,Entertainment,Games,1799,Card
+2026-04-05,Health,Doctor,892,Bank Transfer
+2026-04-05,Shopping,Electronics,4624,UPI
+2026-04-05,Shopping,Online Shopping,1636,Cash
+2026-04-06,Shopping,Electronics,4693,Cash
+2026-04-06,Education,Books,4801,UPI
+2026-04-07,Food,Restaurant,900,Bank Transfer
+2026-04-07,Shopping,Online Shopping,4420,Card
+2026-04-07,Shopping,Clothing,6622,Card
+2026-04-09,Transport,Uber,152,UPI
+2026-04-10,Food,Groceries,1390,UPI
+2026-04-10,Shopping,Electronics,4620,Cash
+2026-04-10,Shopping,Online Shopping,4069,UPI
+2026-04-10,Entertainment,Unusual Purchase,30000,Card
+2026-04-11,Bills,Mobile,401,Card
+2026-04-11,Bills,Mobile,1936,Bank Transfer
+2026-04-11,Shopping,Online Shopping,3504,UPI
+2026-04-12,Food,Coffee,1670,Cash
+2026-04-13,Health,Doctor,1999,Cash
+2026-04-13,Entertainment,Movie,1950,UPI
+2026-04-13,Health,Pharmacy,1423,UPI
+2026-04-14,Food,Snacks,638,UPI
+2026-04-15,Education,Books,700,Cash
+2026-04-16,Entertainment,Games,449,Cash
+2026-04-17,Education,Course,4532,Cash
+2026-04-18,Transport,Fuel,806,UPI
+2026-04-18,Transport,Fuel,1069,Bank Transfer
+2026-04-18,Education,Learning,4797,Cash
+2026-04-19,Education,Course,1482,Bank Transfer
+2026-04-20,Bills,Water,1421,Cash
+2026-04-20,Entertainment,Subscription,382,Cash
+2026-04-21,Education,Learning,4259,UPI
+2026-04-21,Bills,Internet,1220,UPI
+2026-04-21,Transport,Uber,95,UPI
+2026-04-22,Bills,Electricity,610,Cash
+2026-04-23,Transport,Bus,330,Cash
+2026-04-26,Shopping,Online Shopping,1313,Bank Transfer
+2026-04-28,Food,Groceries,467,UPI
+2026-04-29,Food,Snacks,1921,Cash
+2026-04-29,Food,Restaurant,1070,Cash
+2026-04-29,Education,Course,2924,Card
+2026-05-01,Entertainment,Games,575,Card
+2026-05-01,Transport,Auto,225,Card
+2026-05-04,Food,Groceries,2148,UPI
+2026-05-04,Education,Course,1263,Bank Transfer
+2026-05-04,Shopping,Electronics,2328,UPI
+2026-05-06,Bills,Electricity,1106,Bank Transfer
+2026-05-06,Education,Books,3715,Cash
+2026-05-07,Entertainment,Games,971,Cash
+2026-05-08,Bills,Internet,1633,UPI
+2026-05-08,Shopping,Clothing,1889,Card
+2026-05-08,Shopping,Electronics,1324,Card
+2026-05-11,Shopping,Electronics,2296,Card
+2026-05-12,Education,Course,3470,Bank Transfer
+2026-05-12,Transport,Uber,1676,Cash
+2026-05-13,Shopping,Electronics,1349,Card
+2026-05-15,Shopping,Online Shopping,4569,UPI
+2026-05-15,Entertainment,Subscription,779,Card
+2026-05-15,Entertainment,Games,1490,UPI
+2026-05-16,Shopping,Online Shopping,1487,UPI
+2026-05-16,Food,Coffee,1070,Card
+2026-05-16,Bills,Electricity,820,Cash
+2026-05-17,Food,Groceries,1568,Cash
+2026-05-17,Transport,Auto,1227,Cash
+2026-05-17,Health,Doctor,1399,Card
+2026-05-18,Health,Medicine,1911,UPI
+2026-05-19,Entertainment,Movie,792,Card
+2026-05-19,Entertainment,Games,2362,Card
+2026-05-19,Shopping,Electronics,6683,Cash
+2026-05-23,Shopping,Clothing,2204,UPI
+2026-05-24,Entertainment,Movie,1916,Card
+2026-05-24,Bills,Mobile,999,Cash
+2026-05-26,Entertainment,Games,1254,Cash
+2026-05-26,Transport,Bus,751,Cash
+2026-05-28,Education,Learning,2429,Bank Transfer
+2026-05-29,Health,Medicine,2212,Bank Transfer
+2026-05-30,Transport,Auto,1628,Card
+2026-05-30,Shopping,Clothing,5852,UPI
+2026-05-31,Education,Books,4843,Bank Transfer
+2026-05-31,Entertainment,Subscription,1207,Card
+2026-05-31,Shopping,Electronics,4026,Card
+2026-06-02,Transport,Fuel,1515,Bank Transfer
+2026-06-02,Education,Books,2384,UPI
+2026-06-02,Health,Pharmacy,930,Bank Transfer
+2026-06-04,Health,Medicine,1085,UPI
+2026-06-04,Health,Pharmacy,2457,Card
+2026-06-04,Health,Doctor,484,Bank Transfer
+2026-06-05,Shopping,Online Shopping,5543,UPI
+2026-06-05,Bills,Mobile,328,Cash
+2026-06-05,Food,Restaurant,2276,Bank Transfer
+2026-06-06,Shopping,Electronics,6602,Card
+2026-06-06,Transport,Bus,817,UPI
+2026-06-07,Food,Coffee,188,Cash
+2026-06-07,Education,Course,2504,Cash
+2026-06-07,Bills,Water,2010,Card
+2026-06-08,Health,Doctor,1762,Cash
+2026-06-08,Food,Restaurant,1138,UPI
+2026-06-08,Education,Course,4326,Bank Transfer
+2026-06-09,Shopping,Clothing,6006,Cash
+2026-06-11,Bills,Electricity,2280,Cash
+2026-06-12,Food,Groceries,941,Bank Transfer
+2026-06-12,Transport,Fuel,571,Bank Transfer
+2026-06-12,Shopping,Electronics,1484,UPI
+2026-06-15,Education,Learning,3933,Bank Transfer
+2026-06-15,Education,Learning,4744,Bank Transfer
+2026-06-15,Bills,Internet,1859,Bank Transfer
+2026-06-16,Shopping,Electronics,1026,UPI
+2026-06-17,Health,Doctor,1459,Bank Transfer
+2026-06-18,Food,Restaurant,1166,Bank Transfer
+2026-06-18,Education,Books,416,Card
+2026-06-18,Shopping,Clothing,3268,Bank Transfer
+2026-06-20,Health,Pharmacy,1589,Cash
+2026-06-20,Shopping,Large Electronics Purchase,55000,Card
+2026-06-21,Health,Doctor,1524,UPI
+2026-06-21,Food,Snacks,251,UPI
+2026-06-22,Shopping,Electronics,4262,Bank Transfer
+2026-06-22,Food,Groceries,1845,Cash
+2026-06-22,Health,Pharmacy,2339,Bank Transfer
+2026-06-24,Transport,Auto,81,UPI
+2026-06-28,Food,Groceries,2313,Card
+2026-06-29,Education,Books,389,Card
+2026-06-30,Transport,Fuel,1073,Card
+2026-07-01,Bills,Internet,2195,Cash
+2026-07-01,Entertainment,Subscription,834,Card
+2026-07-03,Food,Coffee,2420,Bank Transfer
+2026-07-05,Bills,Water,2013,Bank Transfer
+2026-07-06,Bills,Electricity,410,Cash
+2026-07-07,Education,Learning,507,Bank Transfer
+2026-07-07,Health,Pharmacy,221,Card
+2026-07-08,Shopping,Online Shopping,5404,Bank Transfer
+2026-07-08,Transport,Bus,1050,Card
+2026-07-09,Bills,Mobile,1860,UPI
+2026-07-10,Transport,Fuel,1670,Card
+2026-07-10,Bills,Internet,2227,UPI
+2026-07-11,Entertainment,Subscription,506,Bank Transfer
+2026-07-11,Transport,Bus,993,Cash
+2026-07-12,Entertainment,Movie,1282,Cash
+2026-07-13,Transport,Fuel,114,UPI
+2026-07-13,Entertainment,Games,2182,Cash
+2026-07-13,Food,Coffee,1505,UPI
+2026-07-14,Entertainment,Subscription,2177,UPI
+2026-07-15,Bills,Internet,815,Bank Transfer
+2026-07-15,Bills,Electricity,1255,Bank Transfer
+2026-07-15,Transport,Uber,1026,Bank Transfer
+2026-07-17,Transport,Uber,945,Bank Transfer
+2026-07-17,Bills,Electricity,1741,Bank Transfer
+2026-07-17,Health,Doctor,954,Cash
+2026-07-18,Health,Medicine,1491,Cash
+2026-07-20,Entertainment,Subscription,993,Bank Transfer
+2026-07-21,Health,Doctor,1139,Card
+2026-07-21,Health,Pharmacy,574,UPI
+2026-07-21,Entertainment,Games,752,Card
+2026-07-22,Bills,Internet,1946,Card
+2026-07-23,Education,Course,3455,Card
+2026-07-23,Education,Books,3516,Cash
+2026-07-23,Food,Groceries,177,Card
+2026-07-24,Entertainment,Movie,2246,UPI
+2026-07-24,Bills,Water,600,Cash
+2026-07-25,Education,Learning,3381,Cash
+2026-07-25,Health,Pharmacy,2839,Card
+2026-07-27,Bills,Electricity,1580,UPI
+2026-07-28,Shopping,Clothing,2860,Bank Transfer
+2026-07-28,Health,Medicine,2156,Cash
+2026-07-28,Entertainment,Movie,1855,Bank Transfer
+2026-07-29,Bills,Mobile,2042,Card
+2026-07-29,Bills,Mobile,1256,Bank Transfer
+2026-07-29,Transport,Bus,1745,UPI
+2026-07-30,Entertainment,Games,2366,Cash
+2026-07-30,Health,Medicine,1282,UPI
